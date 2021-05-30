@@ -12,9 +12,9 @@ var cloud1,cloud3;
 var sun;
 
 function preload(){
-  BgImag = loadImage("image/Image.png");
-  dustbinImage = loadImage("image/dustbin.png");
-  cloudImage = loadImage("image/cloud.png");
+  BgImag = loadImage("Image.png");
+  dustbinImage = loadImage("dustbin.png");
+  cloudImage = loadImage("cloud.png");
   
 }
 
